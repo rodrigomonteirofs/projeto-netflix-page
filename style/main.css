@@ -97,6 +97,8 @@ body{
     height: 100%;
     width: 100%;
     display: block;
+    border-radius: 5px;
+    /*border: 1px solid black;*/
 }
 
 .carrosel-filmes{
@@ -106,4 +108,14 @@ body{
 .titulo-categorias{
     /*border: 1px solid red;*/
     margin: 20px 20px;
+}
+
+.item{
+    transition: 0.5s;
+    
+}
+
+.item:hover{
+    transform: scale(1.1);
+    padding: 50px;
 }
