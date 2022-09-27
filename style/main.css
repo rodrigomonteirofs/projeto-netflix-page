@@ -98,7 +98,7 @@ body{
     width: 100%;
     display: block;
     border-radius: 5px;
-    /*border: 1px solid black;*/
+    /*border: 1px solid rgb(212, 17, 66);*/
 }
 
 .carrosel-filmes{
@@ -111,11 +111,11 @@ body{
 }
 
 .item{
-    transition: 0.5s;
+    transition: 0.3s;
     
 }
 
 .item:hover{
     transform: scale(1.1);
-    padding: 50px;
+    padding: 30px;
 }
