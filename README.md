@@ -1,10 +1,10 @@
-# ACTIONFLIX - É uma locadora baseada no serviço da NETFLIX
+# ACTIONFLIX - SUA LOCADORA DE FILMES E SÉRIES DE AÇÃO
 
-![preview] (./img/preview.png)
+![preview] (./.github/preview.png)
 
-> Projeto construído para ser uma plataforma voltada para filmes e séries de ação!
+> Projeto construido para ser uma plataforma voltada para filmes e séries de ação.
 
-[Clique aqui para acessar] (https://rodrigomonteirofs.github.io/projeto-netflix-page/)
+> [Clique aqui para acessar] (https://rodrigomonteirofs.github.io/projeto-nlw-esports)
 
 ##  Tecnologias
 
@@ -12,3 +12,6 @@
 * CSS
 * JavaScript
 * Git e Github
+
+
+
